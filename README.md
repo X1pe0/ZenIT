@@ -2,6 +2,7 @@
 Verify employee security awareness.  ZenIT is a way to send fake spam emails to employees and track their security awareness.
 
 ## Apache Config
+PHP and sendemail packages are needed.
 ```
 <VirtualHost *:80>
    DocumentRoot /var/www/html/web
